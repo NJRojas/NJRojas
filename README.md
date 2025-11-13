@@ -73,6 +73,16 @@ Real-time communication playground
 SwiftNIO WebSocket client
 JSON message decoding/encoding
 
+***Technical Skills***
+Languages: Swift, Objective-C, JavaScript
+Frameworks: SwiftUI, UIKit, WatchOS
+Architectures: MVVM, MVC, MVVM-C, TCA
+APIs & Data: REST, JSON, XML
+Testing: TDD, Unit Tests, UI Tests
+Tools: Xcode, GitHub, Bitbucket, Jenkins, Bamboo
+Design: Figma, Draw.io
+Methodologies: Agile (Scrum & Kanban)
+
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
