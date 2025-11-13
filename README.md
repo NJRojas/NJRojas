@@ -1,12 +1,12 @@
+## 👋 Hi, I’m Neyla
+
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 
-## 👋 Hi, I’m Neyla
-
 Software Engineer iOS • 10+ Years Experience in Native iOS Development
 
-I’m a Senior iOS Engineer with extensive experience designing and building high-quality native iOS applications for the aerospace, banking, automotive, marketing, and telecom industries. I specialize in crafting scalable architectures, leading mobile projects end-to-end, and collaborating closely with cross-functional teams.
+I’m a iOS Engineer with extensive experience designing and building high-quality native iOS applications for the aerospace, banking, automotive, marketing, and telecom industries. I specialize in crafting scalable architectures, leading mobile projects end-to-end, and collaborating closely with cross-functional teams.
 
 I’ve contributed to high-impact mobile products at companies like AIRBUS Defence & Space, ING DiBa, Payback, BMW, and Renault, delivering features used by millions of users and mission-critical aviation systems.
 I’m passionate about clean architecture, SwiftUI, modern concurrency, and building polished user experiences.
