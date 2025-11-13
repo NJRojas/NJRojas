@@ -1,3 +1,7 @@
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
+
 ## 👋 Hi, I’m Neyla
 
 Software Engineer iOS • 10+ Years Experience in Native iOS Development
@@ -82,6 +86,11 @@ Testing: TDD, Unit Tests, UI Tests
 Tools: Xcode, GitHub, Bitbucket, Jenkins, Bamboo
 Design: Figma, Draw.io
 Methodologies: Agile (Scrum & Kanban)
+
+### Languages
+🇪🇸 Spanish — Native
+🇬🇧 English — Fluent
+🇩🇪 German — Fluent
 
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
