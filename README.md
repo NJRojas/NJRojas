@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Nov 13, 2025 at 07_44_11 PM" src="https://github.com/user-attachments/assets/84b80aaa-6968-4cfd-8c55-624c2ac97ac1" />
+
 ## 👋 Hi, I’m Neyla
 
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
