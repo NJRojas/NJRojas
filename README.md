@@ -3,8 +3,8 @@
   
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 I’m a Software Engineer who enjoys building clean, reliable, and user-friendly iOS applications. I’ve worked across the aerospace, banking, automotive, marketing, and telecom industries in Germany, creating apps that support real people in meaningful ways.
 ✨ A great motivation for me are projects that genuinely improve people’s lives — that’s where technology makes sense.
