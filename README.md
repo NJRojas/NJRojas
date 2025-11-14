@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m Neyla
-### *Software Engineer iOS*
   
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
