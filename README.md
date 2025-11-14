@@ -1,16 +1,10 @@
-<p align="center">
-  <img src="BANNER_IMAGE_URL" alt="NJ in Tech — Software Engineer iOS" width="100%">
-</p>
-
-<div align="center">
-# 👋 Hi, I’m Neyla
+## 👋 Hi, I’m Neyla
 ### *Software Engineer iOS*
   
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%23147EFB.svg?style=for-the-badge&logo=xcode&logoColor=white)
 
-</div>
 
 I’m a Software Engineer who enjoys building clean, reliable, and user-friendly iOS applications. I’ve worked across the aerospace, banking, automotive, marketing, and telecom industries in Germany, creating apps that support real people in meaningful ways.
 ✨ A great motivation for me are projects that genuinely improve people’s lives — that’s where technology makes sense.
